@@ -1,0 +1,134 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.todo-card {
+    background: white;
+    width: 100%;
+    max-width: 450px;
+    padding: 30px;
+    border-radius: 20px;
+    border: 2px solid #f9d423; /* Yellow border from screenshot */
+    /* box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+header h1 {
+    color: #4db6ac;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #4db6ac;
+    padding-bottom: 10px;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+#taskInput {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #f9d423;
+}
+
+#addBtn {
+    background: none;
+    border: none;
+    color: #f9d423;
+    font-size: 28px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+#addBtn:hover {
+    transform: scale(1.1);
+} */ 
+
+/* Task List Styling */
+/* ul { */
+    /* list-style: none;
+}
+
+.task-item {
+    display: flex;
+    align-items: center;
+    padding: 12px 20px;
+    margin-bottom: 15px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 500;
+}
+
+.task-item span {
+    flex: 1;
+    margin-left: 15px;
+} */
+
+/* Background Colors from Screenshot */
+/* .blue { background-color: #b2ebf2; color: #00838f; }
+.yellow { background-color: #ffe082; color: #7f6d00; }
+.teal { background-color: #4dd0e1; color: white; }
+.pink { background-color: #f8bbd0; color: #ad1457; }
+
+.actions button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 8px;
+    color: inherit;
+    opacity: 0.7;
+}
+
+.actions button:hover {
+    opacity: 1;
+}
+
+.footer-actions {
+    margin-top: 20px;
+}
+
+#clearAll {
+    background-color: #f9d423;
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: aquamarine;
+}
+
+.list{
+    list-style: circle;
+    margin-left: 25px;
+}
+
+.apniClass{
+    text-decoration: line-through;
+}
+
